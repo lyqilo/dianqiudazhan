@@ -4865,8 +4865,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 204007
-  FallbackText: 'My Gold:'
+  translationName: 301025
+  FallbackText: my gold
 --- !u!114 &1756332603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4887,7 +4887,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'My Gold:'
+  m_text: my gold
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3d05b027a0a718d44aafd082fa388c92, type: 2}
   m_sharedMaterial: {fileID: -6001197064409830115, guid: 3d05b027a0a718d44aafd082fa388c92,
